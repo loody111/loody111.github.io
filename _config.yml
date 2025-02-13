@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: "Loody的博客"
+description: "记录技术与思考"
+plugins:
+  - jekyll-feed
